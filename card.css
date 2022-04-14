@@ -1,0 +1,37 @@
+body{margin: 0;
+    /*Font properties will be herited from the main page, comment it in production*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    flex-basis: content;
+    max-width: 200px;
+    margin: 0%;
+}
+.card h2{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    margin: 0%;
+}
+.card a{
+    text-decoration: none;
+}
+.card img{
+    max-width: 200px;
+    margin: 0%;
+}
+.card figcaption{
+    text-align:center;
+    background-color: rgb(201, 185, 185);
+}
+
+.cards{
+    display:flex;
+    flex-wrap: wrap;
+    gap:10px;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
