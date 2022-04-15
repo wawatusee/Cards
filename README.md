@@ -7,6 +7,6 @@ HTML, CSS, flex
 ## Contents
 Textes, images
 ## Done
--[x] One card the simplest that could be with the correct HTML semantics tags
+- [x] One card the simplest that could be with the correct HTML semantics tags
 
--[x] For the simple HTML
+- [x] For the simple HTML
