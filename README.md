@@ -6,4 +6,7 @@ Cards could be used to be a page of a catalog where each card i is linked with t
 HTML, CSS, flex
 ## Contents
 Textes, images
+## Done
+-[x] One card the simplest that could be with the correct HTML semantics tags
 
+-[x] For the simple HTML
