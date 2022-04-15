@@ -14,4 +14,4 @@ Textes, images
 - [x] Use Flex for the layout
 
 ## ToDo
-- [] PHP class to create this html dinamically(from json for example)
+- [ ] PHP class to create this html dinamically(from json for example)
